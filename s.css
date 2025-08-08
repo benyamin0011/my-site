@@ -1,0 +1,8 @@
+input[type=text]
+{
+    background-color: rgb(243, 226, 223);
+}
+input[type=text]
+{
+    border: lightslategray 2px solid;
+}
